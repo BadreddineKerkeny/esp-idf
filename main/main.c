@@ -13,10 +13,10 @@ void app_main(void)
     while (1)
     {
         gpio_set_level(BLINK_GPIO, 1);  // LED ON
-        vTaskDelay(100 / portTICK_PERIOD_MS);  // Delay 100ms
+        vTaskDelay(1000 / portTICK_PERIOD_MS);  // Delay 100ms
 
         gpio_set_level(BLINK_GPIO, 0);  // LED OFF
-        vTaskDelay(100 / portTICK_PERIOD_MS);  // Delay 100ms
+        vTaskDelay(1000 / portTICK_PERIOD_MS);  // Delay 100ms
     }
 }
 
