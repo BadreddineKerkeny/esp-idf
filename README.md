@@ -17,7 +17,7 @@ to :
   $ npm -v  : 10.7.0
 
 
-  //test 2
+  //test 2 -- the version.txt file inside jenkins got deleted 
 
 
 0.0.0.0
