@@ -24,6 +24,7 @@ to :
 0.0.0.0
 major.minor.patch.build
   Added versioning in jenkins pipeline : artifactory-path/test/one.bin
-  //test1
+  //test 1 - worked !
+  //test 2 - 
 
 
