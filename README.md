@@ -20,3 +20,8 @@ to :
   //test 2
 
 
+0.0.0.0
+major.minor.patch.build
+  Added versioning in jenkins pipeline : artifactory-path/test/one.bin
+
+
