@@ -18,6 +18,7 @@ to :
 
 
   //test 2 -- the version.txt file inside jenkins got deleted 
+  //test 3 -- if file not found then create new version.txt with 0.0.0.0 
 
 
 0.0.0.0
