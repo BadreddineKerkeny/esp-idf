@@ -29,6 +29,6 @@ major.minor.patch.build
 
 
   MQTT testing
-  //test 1 -
+  //test 1 - worked !
 
 
